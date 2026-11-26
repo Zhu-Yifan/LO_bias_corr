@@ -2,5 +2,7 @@ __pycache__/
 .idea/
 .git/
 others/
+application/apply_to_liveocean_DO_3D.ipynb
+
 # Jupyter Notebook
 .ipynb_checkpoints
